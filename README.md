@@ -2,6 +2,9 @@
 
 ## Overview
 
+
+
+
 The Sentiment + Emotion Story Generator<img width="1281" height="344" alt="Screenshot 2026-09-25 152635" src="https://github.com/user-attachments/assets/42ca6846-b454-409d-abcb-e4039cabc76d" />
  is a Natural Language Processing (NLP) application that analyzes user input to identify both sentiment and emotion, then generates a short story that reflects the detected emotional state.
 
